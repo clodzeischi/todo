@@ -1,5 +1,4 @@
-import './App.css'
-import TodoPage from "./todo/TodoPage.tsx";
+import { TodoPage } from "./todo/TodoPage.tsx";
 
 function App() {
 
